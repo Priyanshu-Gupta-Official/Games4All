@@ -1,7 +1,7 @@
 {
-  "name": "p5games",
+  "name": "games4all",
   "version": "1.0.0",
-  "description": "This a a repo containing 100s of mini games made in p5.js and javascript.",
+  "description": "This a a repo containing 100s of mini games made in javascript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
